@@ -13,8 +13,11 @@
 
 7.Four options are given after every booking.
 	a) Display bus details.
+	
 	b) Check seat availability.
+	
 	c) Book again.
+	
 	d) Display previous bookings.
 
 8.’Display of previous bookings’ option shows all bookings of respective run time. When program terminates all the details are transferred into another file.
