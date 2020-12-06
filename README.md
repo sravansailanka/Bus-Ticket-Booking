@@ -12,6 +12,7 @@
 6.Bill is printed on the console immediately after booking.
 
 7.Four options are given after every booking.
+	
 	a) Display bus details.
 	
 	b) Check seat availability.
